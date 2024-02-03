@@ -1,1 +1,1 @@
-Checking if my branch is up to date
+Checking if my branch is up to date... Creating another branch and switching between branches
